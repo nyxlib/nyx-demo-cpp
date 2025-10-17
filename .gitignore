@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+
+/NYX_DEMO/build/
+/NYX_DEMO/CMakeLists.txt
+
+/NYX_DEMO/include/driver.hpp
+
+/NYX_DEMO/src/main.cpp
+/NYX_DEMO/src/driver.cpp
+/NYX_DEMO/src/credentials.hpp
+/NYX_DEMO/src/autogen/
+
