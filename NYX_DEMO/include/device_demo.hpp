@@ -85,6 +85,8 @@ private:
 
     void glueInitialize() override;
 
+    /*----------------------------------------------------------------------------------------------------------------*/
+
     void initialize(nyx_node_t *node) override;
 
     void finalize(nyx_node_t *node) override;
