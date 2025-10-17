@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.univ-grenoble-alpes.fr/" target="_blank"><img src="https://raw.githubusercontent.com/nyxlib/nyx-node/main/docs/img/logo_uga.svg" alt="UGA" height="72" /></a>
 
-# Nyx Demo for C99
+# Nyx Demo for C++11
 
 This is a demo showing how to develop a [Nyx](https://nyxlib.org/) driver (aka node) using [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/).
 
