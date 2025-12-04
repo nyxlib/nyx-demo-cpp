@@ -90,7 +90,7 @@ void DeviceDemo::initialize(nyx_node_t *node)
         size_t sizes[] = {sizeof(that->s_samp_rate), sizeof(that->s_frequency), n * sizeof(float)};
         BUFF_t buffs[] = {&that->s_samp_rate       , &that->s_frequency       , spectrum         };
 
-        nyx_stream_pub(that->vector_spectrum, 100, 3, sizes, buffs);
+        nyx_stream_pub(that->vector_spectrum, 100, sizes, buffs);
 
         /*------------------------------------------------------------------------------------------------------------*/
 
